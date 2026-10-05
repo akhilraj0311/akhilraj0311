@@ -1,0 +1,148 @@
+<div align="center">
+
+<a href="https://akhilrajvadde.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" width="100%" alt="Akhil Raj Vadde — AI Developer, Full Stack Developer and Software Engineer. Builds enterprise banking systems, AWS cloud-native architecture and generative-AI products.">
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://akhilrajvadde.com/"><img src="https://img.shields.io/badge/Portfolio-akhilrajvadde.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/akhil-raj-379848193/"><img src="https://img.shields.io/badge/LinkedIn-akhil--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:akhilrajnov03@gmail.com"><img src="https://img.shields.io/badge/Email-akhilrajnov03%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+**Build Wild. Innovate Fast. Rule Automate.**
+
+</div>
+
+---
+
+### 👋 About
+
+I'm a **Full Stack Developer and AI Engineer** building enterprise banking applications, cloud-native systems and AI-powered automation. My work sits where reliability meets invention: regulated, high-stakes software that still has to feel modern.
+
+- 🏦 **Enterprise & banking:** Finacle Core Banking, payments, reconciliation, compliance-grade delivery
+- 🧠 **Generative AI:** RAG knowledge assistants, AI virtual assistants, LLM document extraction (LangChain · LangGraph · Langfuse)
+- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes and Jenkins CI/CD, carrying it all to production
+- ⚡ **Philosophy:** shorten the distance between an idea and something people can use, and let the machine carry the repetitive half
+
+> *"The best engineers do not write more code. They build the thing that writes it."*
+
+---
+
+### 🚀 Signature Work: AUTOFORGE
+
+**An AI engineering platform that writes production code to requirement**
+
+- Turns a written requirement into production-ready code across every language, framework and config format the change needs
+- Reads the existing repository for context, so output follows the conventions already in place
+- Writes and runs its own tests, validates against enterprise coding standards, and reports what it couldn't resolve rather than guessing
+- Drives the full pipeline (build → test → review gate → release), with a human approval step at every irreversible action
+
+| Delivery cycle | Productivity gain | Code-generation accuracy | Adoption |
+|:---:|:---:|:---:|:---:|
+| **2–3 weeks → 10–20 min** | **~80–90%** | **~99%** | **Multiple banking teams** |
+
+`AI Agents` `LLM APIs` `Prompt Engineering` `Python` `Jenkins` `CI/CD` `Docker` `Kubernetes`
+
+---
+
+### ⚙️ What I Build
+
+- **Full-stack engineering:** enterprise applications across the full SDLC with Java, Spring Boot, Python, Node.js, React, Next.js and TypeScript
+- **Core banking APIs & microservices:** REST and ASP.NET Web APIs for accounts, payments, transactions and reconciliation
+- **Data engineering:** Oracle, PL/SQL, PostgreSQL, MySQL and MongoDB; ETL pipelines, indexing and query tuning; audit-friendly schemas
+- **Generative AI:** RAG Knowledge Assistant, customer-facing AI Virtual Assistant, LLM-powered document extraction, with Langfuse observability
+- **Python services:** async FastAPI services, idempotent webhooks, AWS Athena analytics
+- **Cloud & DevOps:** containerised AWS deployments (EC2, S3, Lambda, RDS, IAM) with Docker, Kubernetes and Jenkins
+- **Automation:** Power Apps, Power Automate and Power BI workflows adopted across banking teams
+
+**🎓 B.Tech, Computer Science & Engineering** · Karunya Institute of Technology and Sciences · *2019 – 2023*
+
+---
+
+### 🧩 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **AUTOFORGE** | Autonomous delivery engine: requirement → tested, standards-checked production code | AI Agents · LLM APIs · Jenkins · K8s |
+| **RAG Knowledge Assistant** | Retrieval-augmented assistant for enterprise banking teams; every answer grounded in a cited source | LangChain · LangGraph · Langfuse · FastAPI |
+| **Customer AI Virtual Assistant** | Customer-facing conversational assistant plus LLM document extraction in a regulated bank | LLM APIs · Python · Microservices |
+| **Finacle Online Banking Platform** | Login management, transaction history and account summaries on Finacle core | Finacle · JavaScript · REST APIs |
+| **Activity Tracking & Data Consistency Suite** | Power Apps + Power BI apps for activity logging, file-change monitoring and live insight | Power Apps · Power BI · SharePoint |
+| **Real-Time Human Detection & Counting** | Computer-vision system counting people in a live video stream *(B.Tech)* | Python · Computer Vision · ML |
+| **Energy-Efficient Underwater Sensor Routing** | Multi-hop routing research to extend node lifetime in underwater WSNs *(B.Tech research)* | Algorithms · Network Simulation |
+
+---
+
+### 🛠️ Engineering Stack
+
+<div align="center">
+
+**Languages & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,cs,react,nextjs,angular,nodejs,nestjs,fastapi,html,css&perline=14" alt="Languages and frameworks"/>
+
+**Data · Cloud · DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,kubernetes,jenkins,git,linux&perline=14" alt="Data, cloud and DevOps"/>
+
+**AI & Enterprise**<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" alt="Langfuse"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI_Agents-0891B2?style=flat-square" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-DB2777?style=flat-square" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Finacle_Core_Banking-B91C1C?style=flat-square" alt="Finacle"/>
+<img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle PL/SQL"/>
+<img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Athena"/>
+<img src="https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Platform"/>
+
+</div>
+
+---
+
+### 🏆 Recognition & Certifications
+
+- 🥇 **Best Tech Star Award (2025–2026)** · *Enterprise AI* — for the AI-powered delivery platform and enterprise AI enablement
+- 🏁 **Gen AI Exchange Hackathon** (Google) · **AI For Bharath Hackathon** (AWS)
+- 📜 **20 certifications**, including **AWS Certified Generative AI Developer – Professional**, AWS Cloud Technical Essentials, Google Gen AI Exchange, Intel OpenVINO, Cisco Packet Tracer and Java Full Stack Developer
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akhilraj0311&show_icons=true&hide_border=true&bg_color=0A0716&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilraj0311&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=0891B2&text_color=334155&count_private=true" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akhilraj0311&hide_border=true&background=0A0716&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B93A7">
+  <img height="165" src="https://streak-stats.demolab.com?user=akhilraj0311&hide_border=true&ring=6D28D9&fire=0891B2&currStreakLabel=6D28D9" alt="GitHub streak">
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilraj0311/akhilraj0311/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilraj0311/akhilraj0311/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/akhilraj0311/akhilraj0311/output/github-snake.svg" width="100%" alt="Contribution snake">
+</picture>
+
+</div>
+
+---
+
+### 📫 Let's Build Something Great
+
+Open to conversations about **AI, product engineering and collaboration**. Tell me what you're building.
+
+<a href="https://akhilrajvadde.com/">🌐 akhilrajvadde.com</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/akhil-raj-379848193/">💼 LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:akhilrajnov03@gmail.com">✉️ akhilrajnov03@gmail.com</a>
