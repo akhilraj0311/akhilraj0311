@@ -10,9 +10,9 @@
 
 <br/>
 
-<a href="https://akhilrajvadde.com/"><img src="https://img.shields.io/badge/Portfolio-akhilrajvadde.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/akhil-raj-379848193/"><img src="https://img.shields.io/badge/LinkedIn-akhil--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:akhilrajnov03@gmail.com"><img src="https://img.shields.io/badge/Email-akhilrajnov03%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://akhilrajvadde.com/"><img src="https://img.shields.io/badge/Portfolio-akhilrajvadde.com-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNjMi41IDIuNyAzLjggNS43IDMuOCA5cy0xLjMgNi4zLTMuOCA5Yy0yLjUtMi43LTMuOC01LjctMy44LTlTOS41IDUuNyAxMiAzeiIvPjwvZz48L3N2Zz4%3D&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/akhil-raj-379848193/"><img src="https://img.shields.io/badge/LinkedIn-akhil--raj-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJ3aGl0ZSI%2BPHJlY3QgeD0iMyIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHJ4PSIuNiIvPjxjaXJjbGUgY3g9IjUiIGN5PSI0LjYiIHI9IjIuMyIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjhjLjYtMS4xIDIuMS0yLjEgNC4xLTIuMSAzLjQgMCA0LjEgMi4yIDQuMSA1LjFWMjFoLTR2LTYuM2MwLTEuNS0uMy0yLjUtMS43LTIuNS0xLjUgMC0yLjMgMS0yLjMgMi42VjIxaC00eiIvPjwvZz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:akhilrajnov03@gmail.com"><img src="https://img.shields.io/badge/Email-akhilrajnov03%40gmail.com-0891B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMi41Ii8%2BPHBhdGggZD0iTTMuNSA2LjVsOC41IDYuNSA4LjUtNi41Ii8%2BPC9nPjwvc3ZnPg%3D%3D&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -43,10 +43,6 @@ I'm a **Full Stack Developer and AI Engineer** building enterprise banking appli
 - Reads the existing repository for context, so output follows the conventions already in place
 - Writes and runs its own tests, validates against enterprise coding standards, and reports what it couldn't resolve rather than guessing
 - Drives the full pipeline (build → test → review gate → release), with a human approval step at every irreversible action
-
-| Delivery cycle | Productivity gain | Code-generation accuracy | Adoption |
-|:---:|:---:|:---:|:---:|
-| **2–3 weeks → 10–20 min** | **~80–90%** | **~99%** | **Multiple banking teams** |
 
 `AI Agents` `LLM APIs` `Prompt Engineering` `Python` `Jenkins` `CI/CD` `Docker` `Kubernetes`
 
@@ -91,16 +87,17 @@ I'm a **Full Stack Developer and AI Engineer** building enterprise banking appli
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,kubernetes,jenkins,git,linux&perline=14" alt="Data, cloud and DevOps"/>
 
 **AI & Enterprise**<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" alt="Langfuse"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/AI_Agents-0891B2?style=flat-square" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-DB2777?style=flat-square" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/Finacle_Core_Banking-B91C1C?style=flat-square" alt="Finacle"/>
-<img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle PL/SQL"/>
-<img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Athena"/>
-<img src="https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Platform"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Langfuse-0F172A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTIgMTJoNGwzLTggNCAxNiAzLThoNiIvPjwvZz48L3N2Zz4%3D&logoColor=white" alt="Langfuse"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDNINmEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoNSIvPjxwYXRoIGQ9Ik0xNCAzbDUgNXYzIi8%2BPGNpcmNsZSBjeD0iMTYuNSIgY3k9IjE2LjUiIHI9IjMiLz48cGF0aCBkPSJNMjEgMjFsLTIuMy0yLjMiLz48L2c%2BPC9zdmc%2B&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI_Agents-0891B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iNCIgeT0iOCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIiByeD0iMyIvPjxwYXRoIGQ9Ik0xMiA4VjUiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjMuNSIgcj0iMS41Ii8%2BPHBhdGggZD0iTTIgMTN2M00yMiAxM3YzIi8%2BPC9nPjxjaXJjbGUgY3g9IjkiIGN5PSIxNCIgcj0iMS42IiBmaWxsPSJ3aGl0ZSIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iMTQiIHI9IjEuNiIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-DB2777?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIvPjxwYXRoIGQ9Ik02IDlsNCAzLTQgM00xMiAxNWg2Ii8%2BPC9nPjwvc3ZnPg%3D%3D&logoColor=white" alt="Prompt Engineering"/>
+<br/>
+<img src="https://img.shields.io/badge/Finacle_Core_Banking-B91C1C?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTMgMTBsOS02IDkgNiIvPjxwYXRoIGQ9Ik01IDEwdjhNOS43IDEwdjhNMTQuMyAxMHY4TTE5IDEwdjgiLz48cGF0aCBkPSJNMyAyMWgxOCIvPjwvZz48L3N2Zz4%3D&logoColor=white" alt="Finacle Core Banking"/>
+<img src="https://img.shields.io/badge/Oracle_PL%2FSQL-C2410C?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgNXYxNGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjUiLz48cGF0aCBkPSJNNCAxMmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zIi8%2BPC9nPjwvc3ZnPg%3D%3D&logoColor=white" alt="Oracle PL/SQL"/>
+<img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTcgMTlhNSA1IDAgMSAxIC45LTkuOUE2LjUgNi41IDAgMCAxIDIwIDExYTQgNCAwIDAgMS0xIDh6Ii8%2BPHBhdGggZD0iTTEwIDE1aDYiLz48L2c%2BPC9zdmc%2B&logoColor=white" alt="AWS Athena"/>
+<img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjYiIHI9IjIuNSIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iNiIgcj0iMi41Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMi41Ii8%2BPHBhdGggZD0iTTcuNSA2aDlNNi4zIDguM2w0LjQgNy40TTE3LjcgOC4zbC00LjQgNy40Ii8%2BPC9nPjwvc3ZnPg%3D%3D&logoColor=white" alt="Power Platform"/>
 
 </div>
 
@@ -118,7 +115,6 @@ I'm a **Full Stack Developer and AI Engineer** building enterprise banking appli
 
 <div align="center">
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilraj0311/akhilraj0311/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilraj0311/akhilraj0311/output/github-snake.svg">
@@ -129,10 +125,20 @@ I'm a **Full Stack Developer and AI Engineer** building enterprise banking appli
 
 ---
 
+<div align="center">
+
 ### 📫 Let's Build Something Great
 
 Open to conversations about **AI, product engineering and collaboration**. Tell me what you're building.
 
-<a href="https://akhilrajvadde.com/">🌐 akhilrajvadde.com</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/akhil-raj-379848193/">💼 LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:akhilrajnov03@gmail.com">✉️ akhilrajnov03@gmail.com</a>
+<br/>
+
+<a href="https://akhilrajvadde.com/"><img src="./assets/portfolio.svg" height="64" alt="Portfolio: akhilrajvadde.com"/></a>
+<a href="mailto:akhilrajnov03@gmail.com"><img src="./assets/email.svg" height="64" alt="Email: akhilrajnov03@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/akhil-raj-379848193/"><img src="./assets/linkedin.svg" height="64" alt="LinkedIn: in/akhil-raj"/></a>
+
+<br/><br/>
+
+<sub>Build Wild · Innovate Fast · Rule Automate</sub>
+
+</div>
