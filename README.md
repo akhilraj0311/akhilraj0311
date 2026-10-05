@@ -12,7 +12,7 @@
 <a href="mailto:akhilrajnov03@gmail.com"><img src="./assets/email.svg" height="52" alt="Email: akhilrajnov03@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/akhil-raj-379848193/"><img src="./assets/linkedin.svg" height="52" alt="LinkedIn: in/akhil-raj"/></a>
 <br/>
-<img src="./assets/tagline.svg" width="680" alt="Build Wild. Innovate Fast. Rule Automate."/>
+<a href="https://akhilrajvadde.com/"><img src="./assets/tagline.svg" width="680" alt="Build Wild. Innovate Fast. Rule Automate."/></a>
 
 </div>
 
