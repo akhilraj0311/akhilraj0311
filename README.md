@@ -122,10 +122,6 @@ I'm a **Full Stack Developer and AI Engineer** building enterprise banking appli
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akhilraj0311&show_icons=true&hide_border=true&bg_color=0A0716&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&count_private=true">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilraj0311&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=0891B2&text_color=334155&count_private=true" alt="GitHub stats">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akhilraj0311&hide_border=true&background=0A0716&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B93A7">
-  <img height="165" src="https://streak-stats.demolab.com?user=akhilraj0311&hide_border=true&ring=6D28D9&fire=0891B2&currStreakLabel=6D28D9" alt="GitHub streak">
-</picture>
 
 <br/><br/>
 
