@@ -7,16 +7,12 @@
     <img src="./dark.svg" width="100%" alt="Akhil Raj Vadde — AI Developer, Full Stack Developer and Software Engineer. Builds enterprise banking systems, AWS cloud-native architecture and generative-AI products.">
   </picture>
 </a>
-
 <br/>
-
-<a href="https://akhilrajvadde.com/"><img src="https://img.shields.io/badge/Portfolio-akhilrajvadde.com-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNjMi41IDIuNyAzLjggNS43IDMuOCA5cy0xLjMgNi4zLTMuOCA5Yy0yLjUtMi43LTMuOC01LjctMy44LTlTOS41IDUuNyAxMiAzeiIvPjwvZz48L3N2Zz4%3D&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/akhil-raj-379848193/"><img src="https://img.shields.io/badge/LinkedIn-akhil--raj-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJ3aGl0ZSI%2BPHJlY3QgeD0iMyIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHJ4PSIuNiIvPjxjaXJjbGUgY3g9IjUiIGN5PSI0LjYiIHI9IjIuMyIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjhjLjYtMS4xIDIuMS0yLjEgNC4xLTIuMSAzLjQgMCA0LjEgMi4yIDQuMSA1LjFWMjFoLTR2LTYuM2MwLTEuNS0uMy0yLjUtMS43LTIuNS0xLjUgMC0yLjMgMS0yLjMgMi42VjIxaC00eiIvPjwvZz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:akhilrajnov03@gmail.com"><img src="https://img.shields.io/badge/Email-akhilrajnov03%40gmail.com-0891B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMi41Ii8%2BPHBhdGggZD0iTTMuNSA2LjVsOC41IDYuNSA4LjUtNi41Ii8%2BPC9nPjwvc3ZnPg%3D%3D&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-**Build Wild. Innovate Fast. Rule Automate.**
+<a href="https://akhilrajvadde.com/"><img src="./assets/portfolio.svg" height="52" alt="Portfolio: akhilrajvadde.com"/></a>
+<a href="mailto:akhilrajnov03@gmail.com"><img src="./assets/email.svg" height="52" alt="Email: akhilrajnov03@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/akhil-raj-379848193/"><img src="./assets/linkedin.svg" height="52" alt="LinkedIn: in/akhil-raj"/></a>
+<br/>
+<img src="./assets/tagline.svg" width="680" alt="Build Wild. Innovate Fast. Rule Automate."/>
 
 </div>
 
@@ -136,9 +132,5 @@ Open to conversations about **AI, product engineering and collaboration**. Tell 
 <a href="https://akhilrajvadde.com/"><img src="./assets/portfolio.svg" height="64" alt="Portfolio: akhilrajvadde.com"/></a>
 <a href="mailto:akhilrajnov03@gmail.com"><img src="./assets/email.svg" height="64" alt="Email: akhilrajnov03@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/akhil-raj-379848193/"><img src="./assets/linkedin.svg" height="64" alt="LinkedIn: in/akhil-raj"/></a>
-
-<br/><br/>
-
-<sub>Build Wild · Innovate Fast · Rule Automate</sub>
 
 </div>
